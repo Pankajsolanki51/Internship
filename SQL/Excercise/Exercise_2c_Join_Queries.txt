@@ -1,0 +1,12 @@
+1. Find actors who acted in film "Lost Bird"
+2. Find movies of "Sci-Fi" genre
+3. Find movies of actress 
+	first_name: "PENELOPE"	
+	last_name:"GUINESS"
+4. list Genres, movies (in each Genre), actors in each movie
+5. List films that are rented from inventory
+6. List genres corresponding movies rented by customer.
+7. List 5 rows of customer which have renated "Horror" generes.
+8. List 5 staff members who have given maximum movies on rent (best performers)
+9. List top movies types Genre (by count) rented by customers.
+10. List top movies (by count) by Genre (by count) in the inventory.
